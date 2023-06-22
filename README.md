@@ -9,6 +9,7 @@
 - 👨‍💻 I am currently improving my skills in <b>desktop applications and web development technologies </b>such as <b>Java, C# Spring Boot, etc.</b>
 - 📚 I am currently learning everything, I can about<b> Backend technologies.</b> 😅
 - 💪🏼 Future goals: Learn more technologies - Never stop learning.
+- 📫 How to reach me: **eladioquien@gmail.com**
 - 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1mQAp-XA96d8bNbJXmSpjbvpCXLHyOkRn/view?usp=sharing" target="_blank">MY RESUME.</a>
 
 <!--
