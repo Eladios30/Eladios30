@@ -3,15 +3,13 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Eladio Quintero
 </h1>
 <h2>
-  I'm a Computer Science and Engineering Student  
+  I'm a computer systems engineering student
 </h2>
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 👨‍💻 I am currently improving my skills in web development technologies such as Java, Spring Boot, etc.
+- 📚 I am currently learning everything I can about Backend technologies. 😅
+- 💪🏼 Future goals: Learn more technologies - Never stop learning.
 
----
 <!--
 **Eladios30/Eladios30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--Animacion-->
