@@ -20,3 +20,10 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,js,php,firebase,spring,java,cs,linux,sqlite,mysql,py&perline=5&theme=light"/>
   </a>
 </p>
+
+<p align="center">
+  <h4>
+    Contact me
+    <a>
+  </h4>
+</p>
