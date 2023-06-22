@@ -2,8 +2,8 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Eladio Quintero
 </h1>
-<h2>
-  I'm a computer systems engineering student
+<h2 align="center">
+  I'm a Computer Systems Engineering student
 </h2>
 
 - 👨‍💻 I am currently improving my skills in <b>desktop applications and web development technologies </b>such as <b>Java, C# Spring Boot, etc.</b>
