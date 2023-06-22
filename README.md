@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <!--Paquetes de iconos-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, bootstrap,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=5&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,firebase,html,idea,java,js,linux,mysql,py,vscode&perline=5&theme=light"/>
   </a>
 </p>
