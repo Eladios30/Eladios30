@@ -9,6 +9,7 @@
 - 👨‍💻 I am currently improving my skills in web development technologies such as Java, Spring Boot, etc.
 - 📚 I am currently learning everything I can about Backend technologies. 😅
 - 💪🏼 Future goals: Learn more technologies - Never stop learning.
+- 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1mQAp-XA96d8bNbJXmSpjbvpCXLHyOkRn/view?usp=sharing" target="_blank">MY RESUME.</a>
 
 <!--
 **Eladios30/Eladios30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
