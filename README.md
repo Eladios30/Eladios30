@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--Paquetes de iconos-->
 <p align="center">
-  <h3>
+  <h3 left>
     Languages
   </h3>
   <a href="https://skillicons.dev">
