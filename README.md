@@ -2,7 +2,9 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Eladio Quintero
 </h1>
-## I'm a Computer Science and Engineering Student  
+<h2>
+  I'm a Computer Science and Engineering Student  
+</h2>
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Backend technologies 😅
