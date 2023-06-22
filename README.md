@@ -23,6 +23,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,js,php,firebase,spring,java,cs,linux,sqlite,mysql,py&perline=5&theme=light"/>
   </a>
 </p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/eladio-l%C3%B3pez" target="blank"><img align="center"
