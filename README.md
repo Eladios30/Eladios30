@@ -47,5 +47,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
-* Credit: [Eladios30](https://github.com/Eladios30-)
+<hr/>
+
+* Credit: [Eladios30](https://github.com/Eladios30)
 * Last Edited on: 21/06/2023
