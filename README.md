@@ -14,13 +14,13 @@
   </a>
 </p>
 <br>
-<p align="left">
-  <h3>
+<p align="center">
+  <h3 left>
     Tools
+  </h3>
     <a>
       <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,js,php,firebase,spring,java,cs,linux,sqlite,mysql,py&perline=5&theme=light"/>
     </a>
-  </h3>
 </p>
 <!--Contactos -->
 <h3 align="left">Connect with me:</h3>
