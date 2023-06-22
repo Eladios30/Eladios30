@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--Paquetes de iconos-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,firebase,github,, php, html,idea,java,js, cs,linux,mysql,py,vscode&perline=14" />
-  </a>
+  <p>
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  </p>
 </p>
