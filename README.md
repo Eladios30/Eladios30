@@ -13,13 +13,13 @@
     <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,js,php,firebase,spring,java,cs,linux,sqlite,mysql,py&perline=5&theme=light"/>
   </a>
 </p>
-<br>
+<!-- Herramientas -->
 <p align="center">
   <h3 left>
     Tools
   </h3>
     <a>
-      <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,js,php,firebase,spring,java,cs,linux,sqlite,mysql,py&perline=5&theme=light"/>
+      <img src="https://skillicons.dev/icons?i=linux,visualstudio,vscode&perline=5&theme=light"/>
     </a>
 </p>
 <!--Contactos -->
