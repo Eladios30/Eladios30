@@ -10,7 +10,7 @@
 - 📚 I am currently learning everything, I can about<b> Backend technologies.</b> 😅
 - 💪🏼 Future goals: Learn more technologies - Never stop learning.
 - 📫 How to reach me: **eladioquien@gmail.com**
-- 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1mQAp-XA96d8bNbJXmSpjbvpCXLHyOkRn/view?usp=sharing" target="_blank">MY RESUME.</a>
+- 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1mQAp-XA96d8bNbJXmSpjbvpCXLHyOkRn/view?usp=sharing" target="_blank">MY CV.</a>
 
 <!--
 **Eladios30/Eladios30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
