@@ -22,7 +22,7 @@
     Languages
   </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,js,php,firebase,gcp,maven,hibernate,spring,java,cs,sqlite,mysql,py,postman,androidstudio,django&perline=4&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,js,php,firebase,gcp,maven,hibernate,spring,java,cs,sqlite,mysql,py,postman,django&perline=4&theme=light"/>
   </a>
 </p>
 <!-- Herramientas -->
