@@ -22,7 +22,7 @@
     Languages
   </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,js,php,firebase,gcp,maven,hibernate,spring,java,cs,sqlite,mysql,py,postman,django&perline=4&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=git,github,html,vue,css,tailwind,sass,bootstrap,js,nodejs,firebase,gcp,maven,hibernate,spring,java,cs,postgres,mongodb,sqlite,mysql,py,postman,&perline=4&theme=light"/>
   </a>
 </p>
 <!-- Herramientas -->
@@ -50,4 +50,4 @@
 <hr/>
 
 * Credit: [Eladios30](https://github.com/Eladios30)
-* Last Edited on: 04/09/2023
+* Last Edited on: 30/10/2023
