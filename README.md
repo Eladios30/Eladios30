@@ -22,7 +22,7 @@
     Languages
   </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,vue,css,tailwind,sass,bootstrap,js,nodejs,firebase,gcp,maven,hibernate,spring,java,cs,postgres,mongodb,sqlite,mysql,py,postman,&perline=4&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,vue,css,tailwind,sass,bootstrap,js,nodejs,firebase,gcp,maven,hibernate,spring,java,cs,mongodb,sqlite,postgres,mysql,py,postman,&perline=4&theme=light"/>
   </a>
 </p>
 <!-- Herramientas -->
